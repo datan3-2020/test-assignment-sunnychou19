@@ -124,7 +124,6 @@ lines(x= g$age, y = g$f, col="red")
 ```
 
 
-
 #End
 
 
